@@ -29,6 +29,22 @@ import model.model_loader as md_loader
 import camera
 import pf
 
+#disable console ouput nếu chạy .exe
+import sys
+sys.stdout = open('logs.txt', 'w')
+sys.stderr = open('errors.txt', 'w')
+
+# if getattr(sys, 'frozen', False) and hasattr(sys, '_MEIPASS'):
+#     class NullOutput(object):
+#         def write(self, string):
+#             pass
+
+#         def isatty(self):
+#             return False
+
+#     sys.stdout = NullOutput()
+#     sys.stderr = NullOutput()
+
 # Window.fullscreen = 'auto'
 # Window.size = RESOLUTION
 # Window.top = 100
