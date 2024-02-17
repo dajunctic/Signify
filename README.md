@@ -1,4 +1,15 @@
 # Signify
+- Một ứng dụng học tập ngôn ngữ kí hiệu với chức năng học tập qua các bài giảng, luyện tập trắc nghiệm và thực hiện mô phỏng lại động tác để luyện tập.
+
+![Nothing](assets/1.png)
+![Nothing](assets/2.png)
+![Nothing](assets/3.png)
+![Nothing](assets/4.png)
+![Nothing](assets/5.png)
+![Nothing](assets/6.png)
+![Nothing](assets/7.png)
+
+
 **Cách thức cài đặt Signify khi không tải được Python và requirements:**
 - Truy cập https://drive.google.com/drive/folders/1bqcxdLvMsgZwmTgAfDgg3bDzSbwxO31V?usp=sharing
 - Tải folder Signify về
